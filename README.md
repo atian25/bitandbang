@@ -1,9 +1,12 @@
-It's me, Tierney!
+# About me
 
-# Usage
-Via npx:
-```
-npx bitandbang
+It's me, TZ!
+
+See my profile card via:
+
+```bash
+npx atian25
 ```
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+---
+Fork from https://github.com/bnb/bitandbang
